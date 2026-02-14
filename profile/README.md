@@ -3,13 +3,7 @@ This project investigates the feasibility of estimating human walking poses usin
 For a detailed analysis of the study, methodology, and results, please refer to the SensFloor-Paper Repository.
 
 ## Project Structure
-
-This repository serves as the central hub for the various software modules used in the study:
-
-### [Sensfloor-paper](https://github.com/sensfloor/sensfloor-paper) 
-- Results of the study 
-
-### [Sensfloor-pipeline](https://github.com/sensfloor/sensfloor-pipeline)
-
-
-### [Sensfloor-frontend](https://github.com/sensfloor/sensfloor-frontend)
+This organization serves as the central hub for the various software modules used in the study.
+- [sensfloor-pipeline](https://github.com/sensfloor/sensfloor-pipeline): Data collection, training, and inference.
+- [sensfloor-frontend](https://github.com/sensfloor/sensfloor-frontend): Real-time visualization of the estimated poses.
+- [sensfloor-paper](https://github.com/sensfloor/sensfloor-paper): Documentation, methodology, and the final research results.
