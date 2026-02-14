@@ -1,4 +1,4 @@
-# Pose Estimation using SensFloor
+# A Deep Learning Approach to 3D Human Walking Pose Estimation From SensFloor Capacitive Signals
 This project investigates the feasibility of estimating human walking poses using SensFloor capacitive floor signals. It was conducted at the Technical University of Würzburg-Schweinfurt (THWS).
 For a detailed analysis of the study, methodology, and results, please refer to the SensFloor-Paper Repository.
 
