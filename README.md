@@ -1,2 +1,0 @@
-# Pose estimation using SensFloor
- 
